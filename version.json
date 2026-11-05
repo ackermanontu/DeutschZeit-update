@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 1,
+  "latestVersionCode": 2,
   "minVersionCode": 1,
-  "versionName": "1.0.0",
-  "message": "You are on the latest version.",
-  "apkUrl": "https://github.com/"
+  "versionName": "1.1.0",
+  "message": "New: smoother animations, a new app logo and a check-for-updates button.",
+  "apkUrl": "https://github.com/ackermanontu/deutschzeit-update/releases/download/v1.1.0/DeutschZeit-v1.1.0.apk"
 }
